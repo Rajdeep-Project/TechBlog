@@ -1,0 +1,15 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql+pymysql://root:@localhost/techblog",
+    "prod_uri": "mysql+pymysql://root:@localhost/techblog",
+    "blog_name": "TechBlog",
+    "tag_line": "A Blog Liked by the Tech Geeks",
+    "footer": "Rajdeep Malakar 2020-2021"
+  },
+  "htmls": {
+    "index": "index.html",
+    "contact": "contact.html",
+    "about": "about.html"
+  }
+}
